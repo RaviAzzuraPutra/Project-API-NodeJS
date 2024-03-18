@@ -1,0 +1,16 @@
+{
+  "name": "how-to-build-a-node.js-weather-api-in-10-minutes-(based-on-express.js-and-request)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "request": "^2.88.2"
+  }
+}
